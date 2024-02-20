@@ -1,0 +1,1 @@
+Repo for blogly exercise part 1
